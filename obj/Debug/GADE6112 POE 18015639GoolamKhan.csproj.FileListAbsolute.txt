@@ -1,0 +1,20 @@
+C:\Users\gkkha\source\repos\GADE6112 POE 18015639GoolamKhan\GADE6112 POE 18015639GoolamKhan\bin\Debug\GADE6112 POE 18015639GoolamKhan.exe.config
+C:\Users\gkkha\source\repos\GADE6112 POE 18015639GoolamKhan\GADE6112 POE 18015639GoolamKhan\bin\Debug\GADE6112 POE 18015639GoolamKhan.exe
+C:\Users\gkkha\source\repos\GADE6112 POE 18015639GoolamKhan\GADE6112 POE 18015639GoolamKhan\bin\Debug\GADE6112 POE 18015639GoolamKhan.pdb
+C:\Users\gkkha\source\repos\GADE6112 POE 18015639GoolamKhan\GADE6112 POE 18015639GoolamKhan\obj\Debug\GADE6112 POE 18015639GoolamKhan.csprojAssemblyReference.cache
+C:\Users\gkkha\source\repos\GADE6112 POE 18015639GoolamKhan\GADE6112 POE 18015639GoolamKhan\obj\Debug\GADE6112_POE_18015639GoolamKhan.Form1.resources
+C:\Users\gkkha\source\repos\GADE6112 POE 18015639GoolamKhan\GADE6112 POE 18015639GoolamKhan\obj\Debug\GADE6112_POE_18015639GoolamKhan.Properties.Resources.resources
+C:\Users\gkkha\source\repos\GADE6112 POE 18015639GoolamKhan\GADE6112 POE 18015639GoolamKhan\obj\Debug\GADE6112 POE 18015639GoolamKhan.csproj.GenerateResource.cache
+C:\Users\gkkha\source\repos\GADE6112 POE 18015639GoolamKhan\GADE6112 POE 18015639GoolamKhan\obj\Debug\GADE6112 POE 18015639GoolamKhan.csproj.CoreCompileInputs.cache
+C:\Users\gkkha\source\repos\GADE6112 POE 18015639GoolamKhan\GADE6112 POE 18015639GoolamKhan\obj\Debug\GADE6112 POE 18015639GoolamKhan.exe
+C:\Users\gkkha\source\repos\GADE6112 POE 18015639GoolamKhan\GADE6112 POE 18015639GoolamKhan\obj\Debug\GADE6112 POE 18015639GoolamKhan.pdb
+C:\Users\gkkha\Desktop\campus\GADE\2nd Attempt 2nd sem\GADE6112 POE 18015639GoolamKhan\GADE6112 POE 18015639GoolamKhan\obj\Debug\GADE6112 POE 18015639GoolamKhan.csprojAssemblyReference.cache
+C:\Users\gkkha\Desktop\campus\GADE\2nd Attempt 2nd sem\GADE6112 POE 18015639GoolamKhan\GADE6112 POE 18015639GoolamKhan\obj\Debug\GADE6112_POE_18015639GoolamKhan.Form1.resources
+C:\Users\gkkha\Desktop\campus\GADE\2nd Attempt 2nd sem\GADE6112 POE 18015639GoolamKhan\GADE6112 POE 18015639GoolamKhan\obj\Debug\GADE6112_POE_18015639GoolamKhan.Properties.Resources.resources
+C:\Users\gkkha\Desktop\campus\GADE\2nd Attempt 2nd sem\GADE6112 POE 18015639GoolamKhan\GADE6112 POE 18015639GoolamKhan\obj\Debug\GADE6112 POE 18015639GoolamKhan.csproj.GenerateResource.cache
+C:\Users\gkkha\Desktop\campus\GADE\2nd Attempt 2nd sem\GADE6112 POE 18015639GoolamKhan\GADE6112 POE 18015639GoolamKhan\obj\Debug\GADE6112 POE 18015639GoolamKhan.csproj.CoreCompileInputs.cache
+C:\Users\gkkha\Desktop\campus\GADE\2nd Attempt 2nd sem\GADE6112 POE 18015639GoolamKhan\GADE6112 POE 18015639GoolamKhan\obj\Debug\GADE6112 POE 18015639GoolamKhan.exe
+C:\Users\gkkha\Desktop\campus\GADE\2nd Attempt 2nd sem\GADE6112 POE 18015639GoolamKhan\GADE6112 POE 18015639GoolamKhan\obj\Debug\GADE6112 POE 18015639GoolamKhan.pdb
+C:\Users\gkkha\Desktop\campus\GADE\2nd Attempt 2nd sem\GADE6112 POE 18015639GoolamKhan\GADE6112 POE 18015639GoolamKhan\bin\Debug\GADE6112 POE 18015639GoolamKhan.exe.config
+C:\Users\gkkha\Desktop\campus\GADE\2nd Attempt 2nd sem\GADE6112 POE 18015639GoolamKhan\GADE6112 POE 18015639GoolamKhan\bin\Debug\GADE6112 POE 18015639GoolamKhan.exe
+C:\Users\gkkha\Desktop\campus\GADE\2nd Attempt 2nd sem\GADE6112 POE 18015639GoolamKhan\GADE6112 POE 18015639GoolamKhan\bin\Debug\GADE6112 POE 18015639GoolamKhan.pdb
